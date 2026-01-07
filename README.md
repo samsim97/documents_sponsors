@@ -6,7 +6,7 @@ Bienvenue dans le répertoire de gestion des commandites du C3I ! Ce dépôt con
 
 * **`emails/`** : Dossier contenant les 4 gabarits de courriels (FR et EN).
 * **`Sponsors_Tracker.xlsx`** : Le fichier Excel de suivi (OBLIGATOIRE À CONSULTER).
-* **`pieces_jointes/`** : Contient le *Cahier de partenariat 2025.pdf* à jour.
+* **`pieces_jointes/`** : Contient le *Cahier de partenariat.pdf* à jour.
 
 ---
 
@@ -38,7 +38,7 @@ Copiez le texte dans votre client courriel.
 
 **N'oubliez pas** d'attacher le fichier PDF : `Cahier de partenariat 2025.pdf`. C'est ce document qui contient les niveaux de prix (Bronze, Argent, Or, Platine) et les avantages.
 
-**N'oubliez pas** de mettre Jacob Turcotte en CC.
+**N'oubliez pas** de mettre le groupe C3I en CC. `C3I@groupes.usherbrooke.ca`
 
 ### 5. Mise à jour du Tracker
 
